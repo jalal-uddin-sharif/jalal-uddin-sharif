@@ -1,4 +1,4 @@
-![](https://i.ibb.co/nQP0yDy/z.png)
+![Profile GIF](profile.gif)
 # 💫 About Me:
 Hi 👋, I'm Sharif. A passionate frontend developer from Bangladesh. <br> I have recently completed a comprehensive course covering frontend and backend technologies.
 # 💻 Tech Stack:
