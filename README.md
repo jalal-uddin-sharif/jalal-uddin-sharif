@@ -1,4 +1,4 @@
-![](https://i.ibb.co.com/k2Y5yRrk/grok-video-50bc4ac1-899e-4c10-81c0-682948a36552.gif)
+![](https://i.ibb.co/nQP0yDy/z.png)
 # 💫 About Me:
 Hi 👋, I'm Sharif. A passionate frontend developer from Bangladesh. <br> I have recently completed a comprehensive course covering frontend and backend technologies.
 # 💻 Tech Stack:
